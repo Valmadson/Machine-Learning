@@ -316,7 +316,6 @@ depth = 4
 maxsyllables = 8
 artist = "artist"
 rap_file = "temporary_poem.txt"
-#text_file = "/home/valmadson/dev/uni7/cordel.txt"
 text_file = "/home/mint/Documents/tcc/cordel.txt"
 train_mode = True
 main(depth, train_mode)
