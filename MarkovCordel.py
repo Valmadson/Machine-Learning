@@ -317,7 +317,7 @@ maxsyllables = 8
 artist = "artist"
 rap_file = "temporary_poem.txt"
 text_file = "/home/mint/Documents/tcc/cordel.txt"
-vartempo = 'testando mais fácil'
+vartempo = 'testquick'
 train_mode = True
 main(depth, train_mode)
 train_mode = False
