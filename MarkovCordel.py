@@ -315,7 +315,11 @@ def main(depth, train_mode):
 depth = 4
 maxsyllables = 8
 artist = "artist"
-rap_file = "temporar_poem.txt"
+<<<<<<< HEAD
+rap_file = "temporary_poem.txt"
+=======
+rap_file = "temporary_poem.txt"
+>>>>>>> c926bbdeac6cb03774d891310fd4171936e6986b
 text_file = "/home/mint/Documents/tcc/cordel.txt"
 train_mode = True
 main(depth, train_mode)
